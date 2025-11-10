@@ -39,13 +39,4 @@ A Python-based keystroke monitoring tool with **AES encryption**, **application-
 
 ---
 
-## 🛠️ Requirements
-
-### System Requirements
-- **OS:** Windows 10/11
-- **Python:** 3.8+
-- **Network:** Isolated lab environment (Gmail SMTP blocked by many firewalls)
-
-### Python Dependencies
-```bash
-pip install pynput cryptography pyclip pygetwindow sounddevice scipy Pillow
+## 📁 Repository Structure
