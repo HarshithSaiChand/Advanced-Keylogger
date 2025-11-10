@@ -1,0 +1,11 @@
+# Core keylogging functionality
+pynput>=1.7.6          # Keyboard event monitoring
+
+# AES encryption for log files
+cryptography>=41.0.0   # Fernet symmetric encryption
+
+# Clipboard monitoring
+pyclip>=0.7.0          # Cross-platform clipboard access
+
+# Application window detection
+pygetwindow>=0.0.9     # Get active window titles
